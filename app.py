@@ -44,7 +44,7 @@ def get_image_as_base64(image_path):
     
 # create the app
 st.set_page_config(
-    page_title="PLN Chatbot",
+    page_title="PLN Chatbot Generator",
 )
 st.title("Welcome to PLN Chatbot")
 
