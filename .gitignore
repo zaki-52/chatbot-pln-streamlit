@@ -1,3 +1,2 @@
 env
-Model/chatbot-exp1
-.gitattributes
+*pytorch_model.bin
